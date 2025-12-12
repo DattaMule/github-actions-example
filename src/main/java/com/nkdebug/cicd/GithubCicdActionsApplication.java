@@ -11,7 +11,7 @@ public class GithubCicdActionsApplication {
 
 	@GetMapping("/welcome")
 	public String welcome(){
-		return "Welcome to github actions in 2025 !";
+		return "Welcome to github actions in 2026 !";
 	}
 
 //	echo "# github-actions-example" >> README.md
